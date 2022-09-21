@@ -9,7 +9,7 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTORCC ON)
 
-set(CMAKE_PREFIX_PATH E:/sdks/qt/5.9/mingw53_32) #这里需要填入自己安装的路径
+set(CMAKE_PREFIX_PATH E:/sdks/qt/5.0.1/mingw47_32/) #这里需要填入自己安装的路径
 
 
 find_package(Qt5Widgets)
